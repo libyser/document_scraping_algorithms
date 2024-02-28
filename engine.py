@@ -1,8 +1,8 @@
 
 import requests
 from bs4 import BeautifulSoup
-from libser_engine.utils import payload
-from libser_engine.utils.exception import GoogleCaptcha, GoogleCookiePolicies
+from utils import payload
+from utils.exception import GoogleCaptcha, GoogleCookiePolicies
 from googlesearch import search
 import urllib
 import threading
