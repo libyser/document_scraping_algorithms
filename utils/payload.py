@@ -31,11 +31,11 @@ escape_codes = {
 # user-agenst
 ua = {
 #1: '/libser_engine/utils/ua/android_webkit',
-2: 'libser_engine/utils/ua/Chrome',
-3: 'libser_engine/utils/ua/Edge',
+2: 'utils/ua/Chrome',
+3: 'utils/ua/Edge',
 #'firefox': '/libser_engine/utils/ua/Firefox',
 #'intenet_explorer': 'LIBSER/libser_engine/utils/ua/Internet+Explorer',
-4: 'libser_engine/utils/ua/Opera',
+4: 'utils/ua/Opera',
 #'safari': '/libser_engine/utils/ua/Safari'
 }
 
