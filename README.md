@@ -4,3 +4,12 @@
 Exctract the document links and the academic paper links form the various search engines
 
 Created for data collection, later feed in a ai model
+
+***
+[googe]
+
+[duckduckgo]
+
+[yahoo]
+
+[bing]
